@@ -9,8 +9,11 @@ Antes de comenzar, asegúrate de tener lo siguiente:
 
 ## Instalación
 1. Clona este repositorio en tu máquina local:
+   
    git clone https://github.com/CamiloMunozb1/actividad_Github.git
-2. Instala las dependencias necesarias con pip:
+   
+3. Instala las dependencias necesarias con pip:
+   
    pip install -r requirements.txt
    
 ## Cómo obtener un token de autenticación personal en GitHub
