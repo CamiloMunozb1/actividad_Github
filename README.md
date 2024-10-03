@@ -1,5 +1,8 @@
 ## Actividad GitHub
-Este proyecto tiene como objetivo demostrar el uso de la API de GitHub para acceder y gestionar información relacionada con los repositorios de un usuario. A través de este proyecto, podrás interactuar con tus repositorios de GitHub de manera programática utilizando la autenticación mediante un token personal.
+Este proyecto tiene como objetivo demostrar el uso de la API de GitHub para acceder y gestionar información relacionada con los repositorios de un usuario. A través de este proyecto, podrás interactuar con tus repositorios de GitHub de manera programática utilizando la autenticación mediante un token personal, la idea se saco de:
+
+https://roadmap.sh/projects/github-user-activity
+
 
 ## Requisitos previos
 Antes de comenzar, asegúrate de tener lo siguiente:
